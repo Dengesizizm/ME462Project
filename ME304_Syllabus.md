@@ -17,4 +17,4 @@
 |   13  | Bode diagrams. Constant, integral and differentiator terms. First order terms. Second order terms. Bandwidth. Resonance. Cut-off frequency. | 90-95 |
 |   14  | Bode diagrams of higher order systems. General low frequency and high frequency characteristics of Bode plots. | 95-98 |
 
-_Page numbers belongs to ME304 CONTROL SYSTEMS Lecture Notes_
+  - _Page numbers_ referenced from _ME304 CONTROL SYSTEMS Lecture Notes_
