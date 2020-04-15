@@ -1,4 +1,4 @@
-## _ME304 Control Systems Course Syllabus_
+## [_ME304 Control Systems Course Syllabus_](https://catalog.metu.edu.tr/course.php?course_code=5690304)
 
 | Weeks | Subjects |
 | :---: |:---------|
