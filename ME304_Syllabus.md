@@ -1,7 +1,7 @@
 ## _[ME304 Control Systems](https://catalog.metu.edu.tr/course.php?course_code=5690304) Course Syllabus_
 
-| Weeks | Subjects | Page Numbers |
-| :---: |:---------| :----------: |
+| Weeks | Subjects | Page Numbers | Activity |
+| :---: |:---------| :----------: | :-------:|
 |   1   | Course Policy. Introduction. Basic Concepts and Definitions. Types of Control. Open loop versus closed loop control, direct versus indirect control.| 1-4 | covered in second week  |
 |   2   | Input/Output (I/O) relations. Laplace transforms. Transfer functions. Block diagrams. Block Diagram Algebra. | 5-9   |  Centrifugal governor system (equations are provided, taking laplace is needed)  |
 |   3   | Mathematical modeling. Translational mechanical systems. Rotational mechanical Systems. Transforming mechanical elements. Rotational systems with gear box. Rules for drawing detailed block diagrams. | 10-14 |  last week but with torsional spring and damping |
