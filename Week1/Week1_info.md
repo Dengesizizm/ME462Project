@@ -2,8 +2,8 @@
 
 Main topics
 --------------------------------
-- [x] What is Colab will be used for
-- [x] What will Colab include
+- [x] What will be Colab used for
+- [x] Which elements Colab includes
 - [x] Mentioning about Python Control Library & Webots
 - [x] Basic concepts of control systems
 - [ ] Types of control systems
