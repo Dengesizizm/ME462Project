@@ -6,10 +6,10 @@ Main topics
 - [x] Which elements Colab includes
 - [x] Mentioning about Python Control Library & Webots
 - [x] Basic concepts of control systems
-- [ ] Types of control systems
+- [x] Types of control systems
 
 Extras
 --------------------------------
 - [ ] Pictures/GIFs from Webots simulations
-- [ ] Pictures/GIFs from interesting real control systems
+- [x] Pictures/GIFs from interesting real control systems
 
