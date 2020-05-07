@@ -2,7 +2,7 @@
 
 Main topics
 --------------------------------
-- [ ] What is mathematical modeling?
+- [x] What is mathematical modeling?
 - [ ] Translational mechanical systems
 - [ ] Rotational mechanical systems
 - [ ] Transforming mechanical elements
