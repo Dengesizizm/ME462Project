@@ -8,4 +8,9 @@ Main topics
 - [ ] Transforming mechanical elements
 - [ ] Rotational mechanical systems with gearboxes
 
+Practice 
+--------------------------------
+- [ ] Guide for Webots simulation
+
+
 
