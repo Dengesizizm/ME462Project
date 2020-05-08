@@ -3,10 +3,10 @@
 Main topics
 --------------------------------
 - [x] What is mathematical modeling?
-- [ ] Translational mechanical systems
-- [ ] Rotational mechanical systems
-- [ ] Transforming mechanical elements
-- [ ] Rotational mechanical systems with gearboxes
+- [x] Translational mechanical systems
+- [x] Rotational mechanical systems
+- [x] Transforming mechanical elements
+- [x] Rotational mechanical systems with gearboxes
 
 Practice 
 --------------------------------
