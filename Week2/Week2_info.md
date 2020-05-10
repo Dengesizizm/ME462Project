@@ -3,11 +3,11 @@
 Main topics
 --------------------------------
 - [x] Recall
-- [ ] Input/Output (I/O) relations
+- [x] Input/Output (I/O) relations
   - [ ] Single Input, Single Output (SISO) Systems
+      - [x] Laplace transform
+      - [ ] Transfer functions
   - [ ] Multiple Input, Single Output (MISO) Systems
   - [ ] Multiple Input, Multiple Output (MIMO) Systems
-- [ ] Laplace transform
-- [ ] Transfer functions
 - [ ] Block diagrams
   - [ ] Block Diagram Algebra
