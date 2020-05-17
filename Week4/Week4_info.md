@@ -3,13 +3,25 @@
 Main topics
 --------------------------------
 - [x] Electrical systems
-- [x] Translational mechanical systems
-- [x] Rotational mechanical systems
-- [x] Transforming mechanical elements
-- [x] Rotational mechanical systems with gearboxes
+  * - [x] Capacitor
+  * - [x] Resistor
+  * - [x] Inductor
+  * - [x] Kirchoff Current & Voltage Laws
+  * - [x] Op-Amps
+  
+- [x] Fluid Flow Systems
+  * - [x] Pipe or valve resistance
+  * - [x] Liquid tank capacitance
+  * - [x] Fluid inertance
+  * - [x] Pressure tank capacitance
+
+- [x] Thermal Systems
+  * - [x] Thermal capacitance
+  * - [x] Thermal resistance
+
 
 Practice 
 --------------------------------
 - [ ] Guide for Webots simulation
- 
+
  
