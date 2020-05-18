@@ -7,7 +7,7 @@ Main topics
   * - [x] Resistor
   * - [x] Inductor
   * - [x] Kirchoff Current & Voltage Laws
-  * - [ ] Op-Amps
+  * - [x] Op-Amps
   
 - [ ] Fluid Flow Systems
   * - [ ] Pipe or valve resistance
