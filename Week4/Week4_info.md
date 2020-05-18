@@ -2,11 +2,11 @@
 
 Main topics
 --------------------------------
-- [ ] Electrical systems
-  * - [ ] Capacitor
-  * - [ ] Resistor
-  * - [ ] Inductor
-  * - [ ] Kirchoff Current & Voltage Laws
+- [x] Electrical systems
+  * - [x] Capacitor
+  * - [x] Resistor
+  * - [x] Inductor
+  * - [x] Kirchoff Current & Voltage Laws
   * - [ ] Op-Amps
   
 - [ ] Fluid Flow Systems
