@@ -10,10 +10,9 @@ Main topics
   * - [x] Op-Amps
   
 - [ ] Fluid Flow Systems
-  * - [ ] Pipe or valve resistance
-  * - [ ] Liquid tank capacitance
-  * - [ ] Fluid inertance
-  * - [ ] Pressure tank capacitance
+  * - [x] Pipe or valve resistance
+  * - [x] Liquid tank capacitance
+  * - [X] Fluid inertance
 
 - [ ] Thermal Systems
   * - [ ] Thermal capacitance
