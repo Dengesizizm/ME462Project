@@ -7,6 +7,6 @@ Main topics
   - [x] Single Input, Single Output (SISO) Systems
       - [x] Laplace Transform
       - [x] Transfer Function and Block diagram
-  - [ ] Multiple Input, Single Output (MISO) Systems
-  - [ ] Multiple Input, Multiple Output (MIMO) Systems
-- [ ] Block Diagram Algebra
+  - [x] Multiple Input, Single Output (MISO) Systems
+  - [x] Multiple Input, Multiple Output (MIMO) Systems
+- [x] Block Diagram Algebra
