@@ -9,14 +9,14 @@ Main topics
   * - [x] Kirchoff Current & Voltage Laws
   * - [x] Op-Amps
   
-- [ ] Fluid Flow Systems
-  * - [ ] Pipe or valve resistance
-  * - [ ] Liquid tank capacitance
-  * - [ ] Fluid inertance
+- [x] Fluid Flow Systems
+  * - [x] Pipe or valve resistance
+  * - [x] Liquid tank capacitance
+  * - [x] Fluid inertance
 
-- [ ] Thermal Systems
-  * - [ ] Thermal capacitance
-  * - [ ] Thermal resistance
+- [x] Thermal Systems
+  * - [x] Thermal capacitance
+  * - [x] Thermal resistance
 
 
 Practice 
