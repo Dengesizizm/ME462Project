@@ -2,7 +2,7 @@
 
 Main topics
 --------------------------------
-- [ ] Typical Open Loop Control System
+- [x] Typical Open Loop Control System
  
 - [ ] Typical Close Loop Control System
 
