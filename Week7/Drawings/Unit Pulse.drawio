@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-04T13:35:52.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="m4A0zoUrHvDi0y3D4lpC" version="13.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-04T13:38:39.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="sOiVgRKI0oRK65yZyaMb" version="13.1.5" type="github">
   <diagram id="eQEuf8rNbThD-bJ0EaV7" name="Page-1">
     <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,8 +28,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JdSP5R1FkzccEM1CHt7P-20" value="π&lt;sub&gt;ε&lt;/sub&gt; (t)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="40" height="20" as="geometry" />
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;π&lt;sub&gt;ε&lt;/sub&gt;(t)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-21" value="&lt;font style=&quot;font-size: 15px&quot;&gt;t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-22" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1/ε&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-23" value="&lt;font style=&quot;font-size: 15px&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-24" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ε&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-25" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="320" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="370" />
+              <mxPoint x="630" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JdSP5R1FkzccEM1CHt7P-26" value="area = 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="307" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
