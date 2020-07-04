@@ -1,6 +1,6 @@
 - [ ] General requirements for a control system
 - [ ] Time response of LTI Systems
-  - [ ] Impulse response
+  - [x] Impulse response
   - [ ] Step response
   - [ ] Ramp response
   - [ ] Acceleration response
