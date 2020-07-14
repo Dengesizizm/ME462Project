@@ -2,13 +2,13 @@
 
 Main topics
 --------------------------------
-- [ ] Stability Analysis
+- [x] Stability Analysis
  
-* - [ ] Asymptotic Stability
-* - [ ] Marginal Stability
-* - [ ] Instability
+* - [x] Asymptotic Stability
+* - [x] Marginal Stability
+* - [x] Instability
 
-- [ ] Stability Analysis by Routh-Hurwitz Criterion
+- [x] Stability Analysis by Routh-Hurwitz Criterion
 
 
 Practice 
