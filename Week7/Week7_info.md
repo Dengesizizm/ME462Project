@@ -1,9 +1,9 @@
 - [ ] General requirements for a control system
 - [ ] Time response of LTI Systems
   - [x] Impulse response
-  - [ ] Step response
-  - [ ] Ramp response
-  - [ ] Acceleration response
+  - [x] Step response
+  - [x] Ramp response
+  - [x] Acceleration response
 - [ ] Stability analysis
-  - [ ] Characteristic equation
   - [ ] Poles and zeros of a transfer function
+  - [ ] Characteristic equation
