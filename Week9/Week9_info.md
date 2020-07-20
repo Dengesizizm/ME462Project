@@ -2,7 +2,7 @@
 
 Main topics
 --------------------------------
-- [ ] Steady-state error analysis
+- [ ] Steady state error analysis
 
 - [ ] Final Value Theorem
 
