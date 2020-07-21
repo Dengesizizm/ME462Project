@@ -6,7 +6,7 @@ Main topics
 
 - [x] Final Value Theorem
 
-- [ ] Methods to improve steady state characteristics
+- [x] Methods to improve steady state characteristics
 
 Practice 
 --------------------------------
