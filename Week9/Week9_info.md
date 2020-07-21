@@ -2,9 +2,9 @@
 
 Main topics
 --------------------------------
-- [ ] Steady state error analysis
+- [x] Steady state error analysis
 
-- [ ] Final Value Theorem
+- [x] Final Value Theorem
 
 - [ ] Methods to improve steady state characteristics
 
