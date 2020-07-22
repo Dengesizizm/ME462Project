@@ -9,4 +9,5 @@
   - [x] Characteristic equation
 
 
-Impulse'ların peşpeşe eklenerek step response gösterimi
+- Impulse'ların peşpeşe eklenerek step response gösterimi
+- Hepsinin altına çok basit de olsa bir gösterim eklenebilir
