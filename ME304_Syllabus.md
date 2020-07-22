@@ -1,3 +1,7 @@
+Hyperlink'ler eklenecek!
+
+
+
 ## _[ME304 Control Systems](https://catalog.metu.edu.tr/course.php?course_code=5690304) Course Syllabus_
 
 | Weeks | Subjects | Page Numbers | Activity |
