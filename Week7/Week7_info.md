@@ -7,3 +7,6 @@
 - [x] Stability analysis
   - [x] Poles and zeros of a transfer function
   - [x] Characteristic equation
+
+
+Impulse'ların peşpeşe eklenerek step response gösterimi
