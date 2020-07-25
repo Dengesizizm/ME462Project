@@ -1,1 +1,3 @@
-- [ ] Step Response of LTI Systems
+- [ ] Step Response of First Order LTI Systems
+  - [ ] <img src="https://render.githubusercontent.com/render/math?math=T_0 = 0"> Case
+  - [ ] <img src="https://render.githubusercontent.com/render/math?math=T_0 \neq 0"> Case
