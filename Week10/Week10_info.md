@@ -9,4 +9,4 @@
       - [x] Critically Damped (<img src="https://render.githubusercontent.com/render/math?math=\xi = 1">) Case
       - [x] Underdamped (<img src="https://render.githubusercontent.com/render/math?math=0 < \xi < 1">) Case
       - [x] Undamped (<img src="https://render.githubusercontent.com/render/math?math=\xi = 0">) Case
-      - <img src="https://render.githubusercontent.com/render/math?math=T_0 = 0"> Graph
+      - [x] <img src="https://render.githubusercontent.com/render/math?math=T_0 = 0"> Graph
