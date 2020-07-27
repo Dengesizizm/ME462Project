@@ -6,7 +6,8 @@
       - [x] Underdamped (<img src="https://render.githubusercontent.com/render/math?math=0 < \xi < 1">) Case
       - [x] Undamped (<img src="https://render.githubusercontent.com/render/math?math=\xi = 0">) Case
       - [x] <img src="https://render.githubusercontent.com/render/math?math=T_0 \neq 0"> Graph
-    - [ ] Degenerate Second Order Systems
+    - [x] Degenerate Second Order Systems
+      - [x] Degenerate Second Order Systems Graph
   - [ ] Step Response of Higher Order LTI Systems (<img src="https://render.githubusercontent.com/render/math?math=n > 3">)
     - [ ] Decomposition of Higher Order Systems
     - [ ] Relation Between Pole Location and Step Response
