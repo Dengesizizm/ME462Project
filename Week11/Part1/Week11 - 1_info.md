@@ -1,1 +1,12 @@
-.
+- [ ] Step Response of LTI Systems
+  - [ ] Step Response of Second Order LTI Systems
+    - [x] <img src="https://render.githubusercontent.com/render/math?math=T_0 \neq 0">  Case
+      - [ ] Overdamped (<img src="https://render.githubusercontent.com/render/math?math=\xi > 1">) Case
+      - [ ] Critically Damped (<img src="https://render.githubusercontent.com/render/math?math=\xi = 1">) Case
+      - [ ] Underdamped (<img src="https://render.githubusercontent.com/render/math?math=0 < \xi < 1">) Case
+      - [ ] Undamped (<img src="https://render.githubusercontent.com/render/math?math=\xi = 0">) Case
+    - [ ] Degenerate Second Order Systems Case
+  - [ ] Step Response of Higher Order LTI Systems (<img src="https://render.githubusercontent.com/render/math?math=n > 3">)
+    - [ ] Decomposition of Higher Order Systems
+    - [ ] Relation Between Pole Location and Step Response
+    - [ ] Dominant Poles and System Simplification
