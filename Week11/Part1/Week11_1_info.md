@@ -8,7 +8,7 @@
       - [x] <img src="https://render.githubusercontent.com/render/math?math=T_0 \neq 0"> Graph
     - [x] Degenerate Second Order Systems
       - [x] Degenerate Second Order Systems Graph
-  - [ ] Step Response of Higher Order LTI Systems (<img src="https://render.githubusercontent.com/render/math?math=n > 3">)
-    - [ ] Decomposition of Higher Order Systems
+  - [x] Step Response of Higher Order LTI Systems (<img src="https://render.githubusercontent.com/render/math?math=n > 3">)
+    - [x] Decomposition of Higher Order Systems
     - [ ] Relation Between Pole Location and Step Response
     - [ ] Dominant Poles and System Simplification
