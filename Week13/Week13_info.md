@@ -8,7 +8,7 @@ Main topics
 -  * [x] Phase Angle Bode Diagram
 
 - [ ] Bode Plots of Basic Factors
--  * [ ] Constant Gain
--  * [ ] Integral and Derivative Factors
--  * [ ] First Order Factors
+-  * [x] Constant Gain
+-  * [x] Integral and Derivative Factors
+-  * [x] First Order Factors
 -  * [ ] Second Order Factors
