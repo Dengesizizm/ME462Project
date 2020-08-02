@@ -2,10 +2,12 @@
 
 Main topics
 --------------------------------
-- [ ] Bode Diagrams
+- [x] Bode Diagrams
 
--  * [ ] Magnitude Bode Diagram
--  * [ ] Phase Angle Bode Diagram
+-  * [x] Magnitude Bode Diagram
+-  * [x] Phase Angle Bode Diagram
+
+- [ ] Bode Plots of Basic Factors
 -  * [ ] Constant Gain
 -  * [ ] Integral and Derivative Factors
 -  * [ ] First Order Factors
