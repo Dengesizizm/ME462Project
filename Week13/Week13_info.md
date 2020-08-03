@@ -11,4 +11,4 @@ Main topics
 -  * [x] Constant Gain
 -  * [x] Integral and Derivative Factors
 -  * [x] First Order Factors
--  * [ ] Second Order Factors
+-  * [x] Second Order Factors
